@@ -3,4 +3,4 @@ Learning git
 
 <br>
 
-Author - Chirag Sharma
+Author - Chirag Sharma (Software Developer)
